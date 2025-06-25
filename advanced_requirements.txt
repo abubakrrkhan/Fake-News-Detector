@@ -1,0 +1,27 @@
+# Deep learning dependencies
+tensorflow>=2.8.0
+torch>=1.10.0
+transformers>=4.18.0
+huggingface-hub>=0.4.0
+sentence-transformers>=2.2.0
+facenet-pytorch>=2.5.2
+flair>=0.11.0
+
+# NLP dependencies
+spacy>=3.2.0
+gensim>=4.1.0
+deep-translator>=1.8.0
+
+# Web scraping
+scrapy>=2.5.0
+selenium>=4.1.0
+googlesearch-python>=1.0.0
+
+# Image processing
+pillow>=9.0.0
+opencv-python>=4.5.5
+
+# Database
+pymongo>=4.0.0
+sqlalchemy>=1.4.0
+redis>=4.1.0 
